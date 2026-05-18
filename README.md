@@ -1,5 +1,8 @@
 # ☕ Sistema de Pedidos para Cafetería — Arquitectura de Microservicios
 
+<img width="1919" height="868" alt="Captura de pantalla 2026-05-18 040239" src="https://github.com/user-attachments/assets/6d5cd6d5-bfad-481e-ba29-3b60adb512b0" />
+
+
 ## 📌 Descripción del Proyecto
 
 Este proyecto consiste en el desarrollo de una aplicación web para la gestión de pedidos de una cafetería utilizando una arquitectura basada en microservicios. El sistema fue diseñado con tecnologías modernas de desarrollo y herramientas DevOps, permitiendo implementar una solución modular, escalable, resiliente y fácil de mantener.
