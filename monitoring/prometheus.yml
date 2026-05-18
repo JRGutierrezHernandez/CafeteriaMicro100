@@ -1,0 +1,24 @@
+global:
+  scrape_interval: 5s
+
+scrape_configs:
+
+  - job_name: 'pedidos-service'
+
+    static_configs:
+      - targets: ['host.docker.internal:5001']
+
+  - job_name: 'usuarios-service'
+
+    static_configs:
+      - targets: ['host.docker.internal:5002']
+
+  - job_name: 'inventario-service'
+
+    static_configs:
+      - targets: ['host.docker.internal:5003']
+
+  - job_name: 'notificaciones-service'
+
+    static_configs:
+      - targets: ['host.docker.internal:5004']
